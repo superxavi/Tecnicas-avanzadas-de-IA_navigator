@@ -1,0 +1,24 @@
+# Archivos de Unity que no deben subirse
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+
+# Archivos de configuración y caché
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.csproj
+*.sln
+
+# Configuración de Visual Studio
+.vs/
+
+# Archivos de Unity Collaborate
+.Collab/
